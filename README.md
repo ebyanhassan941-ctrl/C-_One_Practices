@@ -64,7 +64,6 @@ After completing the course, students should be able to:
 * Lecture 07 - Arrays and Lists
 * Lecture 08 - ADO.NET
 * Lecture 09 - Desktop Application Development
-
 ---
 ## Assessment
 
