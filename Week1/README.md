@@ -20,7 +20,7 @@ In this step, three string variables are created to store the user's name inform
 
 The following screenshot shows how the variables are declared in C#.
 
-![Creating Variables](Screenshot/Creating_Variables.png)
+![Creating Variables](Screenshot/Creating_variables.png)
 
 ## 2. Concatenating the First Name and Second Name
 
